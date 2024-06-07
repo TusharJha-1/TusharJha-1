@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TusharJha-1.
+- 👋 Hello, I’m @TusharJha-1.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Java.
 - 📫 Contact me on tusharjha.cse@gmail.com
